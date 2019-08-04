@@ -1,3 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="bi bi-dot" viewBox="0 0 20 20">
-  <circle cx="88" cy="26" r="1.5" fill-rule="evenodd" transform="translate(-78 -16)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" class="bi" viewBox="0 0 20 20">
+  <path fill="#fff" d="M0 0h20v20H0z"/>
+  <path fill="#000" fill-rule="evenodd" d="M10 11.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z" clip-rule="evenodd"/>
 </svg>

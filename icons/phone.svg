@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="bi bi-phone" viewBox="0 0 20 20">
-  <g fill="none" fill-rule="evenodd" transform="translate(5 2)">
-    <rect width="9" height="14" x=".5" y=".5" stroke="currentColor" rx="2"/>
-    <circle cx="5" cy="12" r="1" fill="currentColor"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" class="bi" viewBox="0 0 20 20">
+  <path fill="#fff" d="M0 0h20v20H0z"/>
+  <rect width="9" height="14" x="5.5" y="2.5" stroke="#000" rx="1.5"/>
+  <path fill="#000" fill-rule="evenodd" d="M10 15a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"/>
 </svg>

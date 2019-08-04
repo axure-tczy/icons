@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="bi bi-house" viewBox="0 0 20 20">
-  <g fill="none" fill-rule="evenodd">
-    <path stroke="currentColor" stroke-linejoin="round" d="M4 16.5v-7l6-6 6 6v7h-4.5V12h-3v4.5z"/>
-    <path fill="currentColor" d="M15 4.5V8l-2-2V4.5a.5.5 0 01.5-.5h1a.5.5 0 01.5.5z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" class="bi" viewBox="0 0 20 20">
+  <path fill="#fff" d="M0 0h20v20H0z"/>
+  <path stroke="#000" stroke-linejoin="round" d="M4 16.5v-7l6-6 6 6v7h-4.5V12h-3v4.5H4z" clip-rule="evenodd"/>
+  <path fill="#000" fill-rule="evenodd" d="M15 4.5V8l-2-2V4.5a.5.5 0 01.5-.5h1a.5.5 0 01.5.5z" clip-rule="evenodd"/>
 </svg>

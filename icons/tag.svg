@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="bi bi-tag" viewBox="0 0 20 20">
-  <path fill="none" stroke="currentColor" stroke-linejoin="round" d="M3 3h6l8 8-6 6-8-8V3zm3.5 5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" class="bi" viewBox="0 0 20 20">
+  <path fill="#fff" d="M0 0h20v20H0z"/>
+  <path stroke="#000" stroke-linejoin="round" d="M3 4a1 1 0 011-1h4.586a1 1 0 01.707.293l7 7a1 1 0 010 1.414l-4.586 4.586a1 1 0 01-1.414 0l-7-7A1 1 0 013 8.586V4z" clip-rule="evenodd"/>
+  <path stroke="#000" stroke-linejoin="round" d="M6.5 8a1.5 1.5 0 100-3 1.5 1.5 0 000 3z" clip-rule="evenodd"/>
 </svg>
