@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-icons",
+  "name": "@twbs/icons",
   "version": "0.2.0",
   "description": "Official open source icon library for Bootstrap",
   "author": "mdo",
